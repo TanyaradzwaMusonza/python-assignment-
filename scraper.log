@@ -1,0 +1,3 @@
+2025-04-11 11:49:58,596 - INFO - Starting the scraping process...
+2025-04-11 11:49:59,974 - WARNING - Skipped a card due to error: 'NoneType' object has no attribute 'get_text'
+2025-04-11 11:50:00,190 - INFO - \u2705 Successfully scraped and saved 9 job posts to scraped_data_2025-04-11.csv

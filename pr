@@ -1,0 +1,28 @@
+languages = ["python", "flutter","dart"]
+print(languages[2])
+
+language = ("python","dart","js")
+print(language[1])
+
+print(type(1))
+
+x = str(2)
+y=float(3)
+z=int(4)
+print(x,y,z)
+
+p="roe"
+def myfunc():
+ print("my name is " + p)
+myfunc()
+
+x = range(6)
+print(x)
+
+for m in "banana":
+ print(m)
+
+a = "hello,world"
+print(a[6:10])
+
+
